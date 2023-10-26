@@ -1,0 +1,7 @@
+H:\web-application\obj\Release\net7.0\PubTmp\Out\web-application.exe
+H:\web-application\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+H:\web-application\obj\Release\net7.0\PubTmp\Out\appsettings.json
+H:\web-application\obj\Release\net7.0\PubTmp\Out\web-application.dll
+H:\web-application\obj\Release\net7.0\PubTmp\Out\web-application.deps.json
+H:\web-application\obj\Release\net7.0\PubTmp\Out\web-application.runtimeconfig.json
+H:\web-application\obj\Release\net7.0\PubTmp\Out\web-application.pdb
